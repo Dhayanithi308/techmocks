@@ -1,1 +1,6 @@
 print("dhaya")
+print("hello world")
+print("welcome to python programming")                                  
+print("have a nice day")           
+print("let's learn together")
+print("python is fun")  
